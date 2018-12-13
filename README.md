@@ -1,6 +1,6 @@
-# Pachigurumi
+# Pachigurumi (pachimari amigurumi)
 
-![Finished pachi](https://raw.githubusercontent.com/Amiralp/Pachi-crochet/master/photos/IMG_20181206_225441.jpg)
+![Finished pachimari](https://raw.githubusercontent.com/Amiralp/Pachi-crochet/master/photos/IMG_20181206_225441.jpg)
 
 Inspiration:
 - [Turnip pattern](https://happyhooker.wordpress.com/2010/11/30/turnip-amigurumi/)
@@ -8,7 +8,7 @@ Inspiration:
 
 Table of Contents:
 
-- [Pachigurumi](#pachigurumi)
+- [Pachigurumi (pachimari amigurumi)](#pachigurumi-pachimari-amigurumi)
   - [Tools, fabric & yarn](#tools-fabric--yarn)
   - [Abbreviations](#abbreviations)
   - [Face](#face)
@@ -75,6 +75,8 @@ Finish: Tie the end, cut the extra yarn, cut and glue/sew the cheeks and mouth.
 
 ## Body
 
+![Pachimari body done](https://raw.githubusercontent.com/Amiralp/Pachi-crochet/master/photos/IMG_20180930_214451.jpg)
+
 R1: mr6 (6)  
 R2: (sc, inc) x3 (9)  
 R3: (sc x2, inc) x3 (12)  
@@ -88,7 +90,9 @@ R10: (sc x7, inc) x6 (54)
 R11-20: sc around (54)  
 R21: (sc x7, dec) x6 (48)  
 
-_If using buttons, sew them on the face. If using safety eyes, position the face on the body and fasten the safety eyes through both layers (face + body). Stitch the face to the body using the yarn needle and white yarn._  
+_If using buttons, sew them on the face. If using safety eyes, position the face on the body and fasten the safety eyes through both layers (face + body). Stitch the face to the body using the yarn needle and white yarn:_  
+
+![Pachimari body in progress: face attached but no stuffing](https://raw.githubusercontent.com/Amiralp/Pachi-crochet/master/photos/IMG_20180927_111819.jpg)
 
 R22: (sc x2, dec) x12 (36)  
 R23: sc around (36)  
@@ -105,6 +109,8 @@ _Add final stuffing._
 R28: dec (6) and close.
 
 ## Legs
+
+![Underside of a pachimari once legs are attached](https://raw.githubusercontent.com/Amiralp/Pachi-crochet/master/photos/IMG_20181210_171315.jpg)
 
 Repeat 4 times:
 
@@ -130,7 +136,8 @@ R19: sc x3, dec, sc x2 (6)
 R20: sc, dc x2, sc (4)  
 R21: sc, sc, sl st, tie & close.
 
+Stitch legs together using yarn needle and green yarn before attaching them to the body. An alternative solution would be to crochet a small green circle, attach the legs to it, and then stitch it to the body if you prefer.
 
-
+You can also crochet a small circle and hide the center space.
 
 

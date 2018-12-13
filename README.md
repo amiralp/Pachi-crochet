@@ -69,8 +69,7 @@ R9: 1 sc in next 10 sc, 2 sc in sc, 1 sc in each next 2 sc, 2 sc in sc, 1 sc in 
 
 _Freestyle: Here is where I added stitches because the pattern was too small: add sc stitches until you've done 2 extra ovals around the piece._
 
-R10*: 1 sc in next 2 sc, 1 sl st in next 5 sc, 1 sc in 4 sc, 2 sc in sc, 1 sc in next 7 sc, close with sl (20)
-
+R10: 1 sc in next 2 sc, 1 sl st in next 5 sc, 1 sc in 4 sc, 2 sc in sc, 1 sc in next 7 sc, close with sl (20)  
 Finish: Tie the end, cut the extra yarn, cut and glue/sew the cheeks and mouth.
 
 ## Body
@@ -134,7 +133,7 @@ R17: sc, dec, sc x6 (8)
 R18: sc x3, dec, sc x3 (7)  
 R19: sc x3, dec, sc x2 (6)  
 R20: sc, dc x2, sc (4)  
-R21: sc, sc, sl st, tie & close.
+Finish: sc, sc, sl st, tie & close.
 
 Stitch legs together using yarn needle and green yarn before attaching them to the body. An alternative solution would be to crochet a small green circle, attach the legs to it, and then stitch it to the body if you prefer.
 

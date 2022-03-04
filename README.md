@@ -1,6 +1,6 @@
 # Pachigurumi (pachimari amigurumi)
 
-![Finished pachimari](https://raw.githubusercontent.com/Amiralp/Pachi-crochet/master/photos/IMG_20181206_225441.jpg)
+![Finished pachimari](https://raw.githubusercontent.com/Amiralp/Pachi-crochet/main/photos/005.jpg)
 
 Inspiration:
 - [Turnip pattern](https://happyhooker.wordpress.com/2010/11/30/turnip-amigurumi/)
@@ -74,7 +74,7 @@ Finish: Tie the end, cut the extra yarn, cut and glue/sew the cheeks and mouth.
 
 ## Body
 
-![Pachimari body done](https://raw.githubusercontent.com/Amiralp/Pachi-crochet/master/photos/IMG_20180930_214451.jpg)
+![Pachimari body done](https://raw.githubusercontent.com/Amiralp/Pachi-crochet/main/photos/004.jpg)
 
 R1: mr6 (6)  
 R2: (sc, inc) x3 (9)  
@@ -91,7 +91,7 @@ R21: (sc x7, dec) x6 (48)
 
 _If using buttons, sew them on the face. If using safety eyes, position the face on the body and fasten the safety eyes through both layers (face + body). Stitch the face to the body using the yarn needle and white yarn:_  
 
-![Pachimari body in progress: face attached but no stuffing](https://raw.githubusercontent.com/Amiralp/Pachi-crochet/master/photos/IMG_20180927_111819.jpg)
+![Pachimari body in progress: face attached but no stuffing](https://raw.githubusercontent.com/Amiralp/Pachi-crochet/main/photos/002.jpg)
 
 R22: (sc x2, dec) x12 (36)  
 R23: sc around (36)  
@@ -109,7 +109,7 @@ R28: dec (6) and close.
 
 ## Legs
 
-![Underside of a pachimari once legs are attached](https://raw.githubusercontent.com/Amiralp/Pachi-crochet/master/photos/IMG_20181210_171315.jpg)
+![Underside of a pachimari once legs are attached](https://raw.githubusercontent.com/Amiralp/Pachi-crochet/main/photos/006.jpg)
 
 Repeat 4 times:
 
